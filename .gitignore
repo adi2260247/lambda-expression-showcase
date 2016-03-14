@@ -1,0 +1,18 @@
+.idea
+.mvn
+*.iml
+mvnw
+mvnw.cmd
+target/
+.metadata/
+RemoteSystemsTempFiles/
+Servers/
+.classpath
+.project
+.settings/
+.recommenders/
+*.vsd
+*.docx
+snapshots/
+simple-map/Simple Map TDD Guide v0.1.pdf
+*.pptx
